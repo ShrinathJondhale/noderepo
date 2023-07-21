@@ -29,8 +29,6 @@ appforuser.get("/",(request,response)=>{
     })
 })
 
-appforuser.post()
-
 
 
 module.exports=appforuser;
